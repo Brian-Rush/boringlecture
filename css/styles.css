@@ -1,0 +1,12 @@
+p.intro {
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+h2.intro {
+  color: #234567;
+}
+
+img.intro {
+  border: 6px dashed green;
+}
