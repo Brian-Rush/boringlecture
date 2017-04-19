@@ -1,12 +1,17 @@
-p.intro {
+.intro {
   font-size: 2em;
   font-weight: bolder;
 }
 
-h2.intro {
+.intro h2 {
   color: #234567;
 }
 
-img.intro {
+.intro img {
   border: 6px dashed green;
+}
+
+#non-intro {
+  font-size: .5em;
+  font-weight: normal;
 }
