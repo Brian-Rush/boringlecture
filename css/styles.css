@@ -15,3 +15,16 @@
   font-size: .5em;
   font-weight: normal;
 }
+
+.border {
+  border: 5px solid purple;
+  background-color: ;
+}
+
+p:hover{
+  color: red;
+}
+
+.highlight{
+  background-color: yellow;
+}
